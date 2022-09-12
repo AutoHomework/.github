@@ -14,7 +14,7 @@ A collection of scripts and people who wanna get homework done as fast as possib
 
 ## Support
 
-For support or just to chat, join our discord server.
+For support or just to chat, join our discord server https://discord.gg/aKZhrtUWgC
 
 
 ## Environment Variables
