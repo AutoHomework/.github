@@ -1,7 +1,7 @@
 
 # Hi, We are AutoHomework
 
-A collection of scripts and people who wanna get web homework done as fast as possible
+A collection of scripts and people who wanna get homework done as fast as possible
 
 
 ## Features
