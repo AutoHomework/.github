@@ -1,12 +1,29 @@
-## Hi there 👋
 
-<!--
+# Hi, We are AutoHomework
 
-**Here are some ideas to get you started:**
+A collection of scripts and people who wanna get web homework done as fast as possible
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Features
+
+- Fast Scripts
+- Undectable
+- Always open to suggestions
+- 24/7 support
+
+
+## Support
+
+For support or just to chat, join our discord server.
+
+
+## Environment Variables
+
+To run all of our projects, you will need to add the following environment variables to your .env file
+
+`username`
+
+`password`
+
+this is only on your version when you download one of our projects
+
